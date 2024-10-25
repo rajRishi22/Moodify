@@ -102,9 +102,7 @@ Even though the dataset creation took a lot of time and effort, we believe that 
 
 - Use an external software such as liwc (http://liwc.wpengine.com/) to review the linguistic and emotional content of the tweets, and verify that the labels are correct.
 
-<p align="center">
-  <img width="708" height="382" src="https://user-images.githubusercontent.com/14244685/63355476-00543d00-c388-11e9-961c-71f4bc01162b.png">
-</p>
+
 
 
 
