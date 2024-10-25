@@ -6,7 +6,6 @@ Depression Detection using Twitter data
 2. [Dataset Construction](#dataset)
 3. [Project Phases](#phases)
 4. [Future Plan](#futureplan)
-5. [Contributors](#contributors)
 6. [Recources](#recources)
 
 
@@ -95,8 +94,6 @@ Combine the datasets from Part 3 and Part 4 to create a final dataset
 Even though the dataset creation took a lot of time and effort, we believe that it was really important to get this right, as this is the basis of creating an accurate depression detector and potentially differentiate it from just a sentiment detector.
 
 
-![Positive words](https://user-images.githubusercontent.com/14244685/63386084-108a0d80-c3c4-11e9-8735-77afc986cc33.png)
-![negitive words](https://user-images.githubusercontent.com/14244685/63386087-108a0d80-c3c4-11e9-9796-588ce316ed70.png)
 
 
 
@@ -105,27 +102,11 @@ Even though the dataset creation took a lot of time and effort, we believe that 
 
 - Use an external software such as liwc (http://liwc.wpengine.com/) to review the linguistic and emotional content of the tweets, and verify that the labels are correct.
 
-
-
-## Contributors<a name="contributors"></a>
-
-Contributor | Slack Handle
------------- | -------------
-Susan Wang | @SusanW
-Labiba Kanij Rupty | @Labiba 
-Mahfuza Humayra Mohona | @Mohona 
-Aarthi Alagammai | @Aarthi Alagammai
-Munira Omar | @Munira Omar
-Marwa Qabeel | @Marwa
-
 <p align="center">
   <img width="708" height="382" src="https://user-images.githubusercontent.com/14244685/63355476-00543d00-c388-11e9-961c-71f4bc01162b.png">
 </p>
 
-## Resources<a name="resources"></a>
-- Anne Bonner's Medium article [You Are What You Tweet](https://towardsdatascience.com/you-are-what-you-tweet-7e23fb84f4ed).
-- [Sentiment Analysis — TorchText](https://medium.com/@sonicboom8/sentiment-analysis-torchtext-55fb57b1fab8)
-- Pranjal Chaubey repo [Sixty AI](https://github.com/pranjalchaubey/Sixty-AI)
+
 
 
 
